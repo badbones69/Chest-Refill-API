@@ -1,0 +1,11 @@
+name: ChestRefillAPI
+author: BadBones69
+main: me.BadBones69.chestrefillapi.Main
+version: 1.0
+description: >
+             Test Description!
+commands:
+  refillchance:
+    description: Refill a chest will the chance system.
+  refillitems:
+    description: Refill a chest willout a chance system.
